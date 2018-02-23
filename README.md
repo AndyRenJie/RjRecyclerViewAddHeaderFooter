@@ -3,7 +3,7 @@
 原生RecyclerView添加Header和Footer的例子，本项目只做了基本的RecyclerView添加头部布局和底部布局的操作，在这个基础上可以实现其他需求的操作，
 例如头部布局添加首页轮播图，底部布局添加广告页等
  
-先来上两张效果图，语音不够图来凑
+先来上两张效果图，语言不够图来凑
 
 ![image](https://github.com/AndyRenJie/RjRecyclerViewAddHeaderFooter/blob/master/images/device-2018-02-07-172430.png)
 
